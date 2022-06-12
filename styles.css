@@ -1,0 +1,87 @@
+body {
+  background-color: #F9F9F9;
+}
+
+
+.puffs {
+  position: absolute;
+  left: 350px;
+}
+
+
+.pizzas {
+  position: absolute;
+  left: 350px;
+  top: 450px;
+}
+
+.rolls {
+  position: absolute;
+  left: 1000px;
+}
+
+
+.burgers {
+  position: absolute;
+  left: 1000px;
+  top: 500px;
+}
+
+.noodles {
+  position: absolute;
+  left: 350px;
+  top: 1000px;
+}
+
+
+.cakes {
+  position: absolute;
+  left: 1000px;
+  top: 1000px;
+}
+
+
+
+.soups {
+  position: absolute;
+  left: 1000px;
+  top: 1500px;
+}
+
+
+.drinks {
+  position: absolute;
+  left: 350px;
+  top: 1500px;
+}
+
+
+.starters {
+  position: absolute;
+  left: 1000px;
+  top: 2000px;
+}
+
+
+.Pastries {
+  position: absolute;
+  left: 350px;
+  top: 2000px;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+}
+  
+.menu {
+  font-family: 'Tiro Devanagari Sanskrit', serif;
+  position: absolute;
+  top: 2370px;
+  left: 400px;
+}
+.hotel {
+  font-family: 'Tiro Devanagari Sanskrit', serif;
+  position: absolute;
+  top: 2440px;
+  left: 450px;
+}
